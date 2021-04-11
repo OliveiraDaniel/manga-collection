@@ -1,0 +1,14 @@
+#Header{
+    color: #fff;
+    padding-top: 0;
+    padding-bottom: 0;
+    position: relative;
+    overflow: hidden;
+    display:block;
+    background-color:#c12911;
+}
+
+#Header p{
+    display: block;
+    padding: 0 25px;
+}

@@ -1,0 +1,14 @@
+#footer{
+    color: #fff;
+    padding-top: 0;
+    padding-bottom: 0;
+    position: relative;
+    overflow: hidden;
+    display:block;
+    background-color:#c12911;
+}
+
+#footer p{
+    display: block;
+    padding: 0 25px;  
+}
