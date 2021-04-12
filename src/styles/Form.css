@@ -1,0 +1,36 @@
+#form-push{
+    font-family: Arial, Helvetica, sans-serif;
+    display:block;
+    width:500px;
+    margin: 20px auto;
+}
+
+#form-push label{
+    display:block;
+    font-weight: 700;
+    font-size:16px;
+}
+
+#form-push input[type="text"], #form-push input[type="number"]{
+    display:block;
+    width:70%;
+    height: 24px;
+    border-radius:5px;
+    border:1px solid #6d6c6c;
+}
+
+#form-push input[type="button"]{
+    background-color:#df4d4d;
+    border: none;
+    color:#fff;
+    display:block;
+    padding:10px;
+    border-radius:5px;
+    font-size:16px;
+    text-align: center;
+    cursor:pointer;
+}
+
+#form-push .form-line{
+    margin-bottom:15px;
+}
